@@ -1,0 +1,21 @@
+{
+  "best_params": {
+    "colsample_bytree": 0.9936072610087581,
+    "corr_thresh": 0.9477280823368912,
+    "early_stopping_rounds": 58,
+    "gamma": 0.09039272653097885,
+    "learning_rate": 0.06302592942832168,
+    "max_delta_step": 3.849858455657635,
+    "max_depth": 7,
+    "min_child_weight": 2.531272000734767,
+    "n_estimators": 692,
+    "reg_alpha": 0.0055369516955513275,
+    "reg_lambda": 0.36299019706203584,
+    "subsample": 0.7152198646898033,
+    "zero_thresh": 0.9523350928526036
+  },
+  "best_cv_rmse": 0.6430165871878082,
+  "max_evals": 200,
+  "cv": "KFold(5, shuffle=True, random_state=42)",
+  "notes": "Tunes feature-selection thresholds (zero_thresh, corr_thresh) + XGB params. Feature selection fitted per fold."
+}

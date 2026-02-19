@@ -1,0 +1,12 @@
+{
+  "split": "random 85/15",
+  "best_params_source": "reports/hyperopt_xgb_best.json",
+  "zero_thresh": 0.9523350928526036,
+  "corr_thresh": 0.9477280823368912,
+  "n_train": 1093,
+  "n_test": 194,
+  "n_feat_before": 2215,
+  "n_feat_after": 344,
+  "r2": 0.683221697807312,
+  "rmse": 0.6615380041446282
+}

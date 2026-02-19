@@ -1,0 +1,19 @@
+{
+  "best_params": {
+    "colsample_bytree": 0.6621853072691591,
+    "early_stopping_rounds": 26,
+    "gamma": 0.043868523400610676,
+    "learning_rate": 0.019471507089929355,
+    "max_delta_step": 1.5831317803471097,
+    "max_depth": 10,
+    "min_child_weight": 1.1673029620629156,
+    "n_estimators": 748,
+    "reg_alpha": 0.004266114541858996,
+    "reg_lambda": 0.0563556748435749,
+    "subsample": 0.8557450599512342
+  },
+  "best_scaffoldcv_rmse": 0.7035988909038104,
+  "max_evals": 120,
+  "cv": "5-fold scaffold CV (Murcko scaffolds, greedy balanced bins)",
+  "notes": "Uses early stopping. Feature selection fitted per fold."
+}

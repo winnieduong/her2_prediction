@@ -1,0 +1,10 @@
+{
+  "split": "Murcko scaffold split",
+  "test_size_target": 0.15,
+  "n_train": 1094,
+  "n_test": 193,
+  "n_feat_before": 2215,
+  "n_feat_after": 219,
+  "r2": 0.728502631187439,
+  "rmse": 0.6376439493007555
+}
