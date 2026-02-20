@@ -1,0 +1,12 @@
+{
+  "split": "random 85/15",
+  "best_params_source": "reports/hyperopt_xgb_best_ecfp46.json",
+  "zero_thresh": 0.9460872900266026,
+  "corr_thresh": 0.9427989646153311,
+  "n_train": 1093,
+  "n_test": 194,
+  "n_feat_before": 4263,
+  "n_feat_after": 481,
+  "r2": 0.7207736968994141,
+  "rmse": 0.6210910389199257
+}

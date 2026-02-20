@@ -1,0 +1,21 @@
+{
+  "best_params": {
+    "colsample_bytree": 0.6680980328357544,
+    "corr_thresh": 0.9427989646153311,
+    "early_stopping_rounds": 51,
+    "gamma": 0.10068817122597065,
+    "learning_rate": 0.025625961918349933,
+    "max_delta_step": 2.010849912716756,
+    "max_depth": 9,
+    "min_child_weight": 8.017898202235154,
+    "n_estimators": 937,
+    "reg_alpha": 3.2355483399009808e-06,
+    "reg_lambda": 0.05055859496430009,
+    "subsample": 0.6002051547498962,
+    "zero_thresh": 0.9460872900266026
+  },
+  "best_cv_rmse": 0.6367148429774805,
+  "max_evals": 200,
+  "cv": "KFold(5, shuffle=True, random_state=42)",
+  "features": "ECFP4(2048)+ECFP6(2048)+MACCS(~167) with feature selection"
+}

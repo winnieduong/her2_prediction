@@ -1,0 +1,21 @@
+{
+  "best_params": {
+    "colsample_bytree": 0.8049966219694653,
+    "corr_thresh": 0.94667761756406,
+    "early_stopping_rounds": 69,
+    "gamma": 0.21730495825762752,
+    "learning_rate": 0.057597826798243254,
+    "max_delta_step": 4.250198863250397,
+    "max_depth": 8,
+    "min_child_weight": 5.01440350673025,
+    "n_estimators": 1488,
+    "reg_alpha": 0.03693976931542021,
+    "reg_lambda": 0.34410484203612546,
+    "subsample": 0.6224608488778679,
+    "zero_thresh": 0.9677363680132395
+  },
+  "best_repeatedcv_rmse": 0.630018466882743,
+  "max_evals": 120,
+  "cv": "RepeatedKFold(5 folds x 3 repeats, random_state=42)",
+  "features": "ECFP4+ECFP6+MACCS"
+}

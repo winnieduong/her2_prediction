@@ -1,0 +1,20 @@
+{
+  "prefix": "dataset/processed/ecfp46_b2048_chiral",
+  "best_params": {
+    "colsample_bytree": 0.5771180252311592,
+    "corr_thresh": 0.9738860906173064,
+    "early_stopping_rounds": 78,
+    "gamma": 0.026714336854952586,
+    "learning_rate": 0.01241184811611885,
+    "max_delta_step": 2.90581882093063,
+    "max_depth": 12,
+    "min_child_weight": 2.7369191749646893,
+    "n_estimators": 753,
+    "reg_alpha": 1.937291458366112e-06,
+    "reg_lambda": 9.599604409884927,
+    "subsample": 0.7236836326889077,
+    "zero_thresh": 0.9742640933662273
+  },
+  "best_cv_rmse": 0.63701981415717,
+  "max_evals": 160
+}
